@@ -14,8 +14,9 @@
 
 .header {
     color: #fff;
-    /* background: #3167bf; */
-    background: green;
+    background: #3167bf;
+    /* background: green; */
+    width: 100%;
     justify-content: center;
     display: flex;
 }
