@@ -16,7 +16,7 @@
     color: #fff;
     background: #3167bf;
     /* background: green; */
-    width: 100%;
+    width: 100vw;
     justify-content: center;
     display: flex;
 }
