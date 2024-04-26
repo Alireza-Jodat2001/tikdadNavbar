@@ -15,7 +15,7 @@
 .header {
     color: #fff;
     /* background: #3167bf; */
-    background: red;
+    background: green;
     justify-content: center;
     display: flex;
 }
