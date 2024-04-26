@@ -14,8 +14,8 @@
 
 .header {
     color: #fff;
-    background: #3167bf;
-    /* background: green; */
+    /* background: #3167bf; */
+    background: green;
     width: 100vw;
     justify-content: center;
     display: flex;
