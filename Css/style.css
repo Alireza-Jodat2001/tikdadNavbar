@@ -14,11 +14,10 @@
 
 .header {
     color: #fff;
-    /* background: #3167bf; */
-    background: green;
-    width: 100vw;
-    justify-content: center;
-    display: flex;
+    background: #3167bf;
+    /* background: green; */
+    /* justify-content: center;
+    display: flex; */
 }
 
 .toolbar {
@@ -27,6 +26,7 @@
     width: 90%;
     padding: 15px 0;
     display: flex;
+    margin: 0 auto;
 }
 
 @media screen and (max-width: 1160px) {
