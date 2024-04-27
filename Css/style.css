@@ -14,7 +14,8 @@
 
 .header {
     color: #fff;
-    background: #3167bf;
+    /* background: #3167bf; */
+    background: red;
 }
 
 .toolbar {
